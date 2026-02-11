@@ -2,7 +2,9 @@ package com.xworkz.productmanagement.configuration;
 
 import com.xworkz.productmanagement.entity.*;
 import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
 
+@Configuration
 public class ProductConfiguration {
 
     @Bean

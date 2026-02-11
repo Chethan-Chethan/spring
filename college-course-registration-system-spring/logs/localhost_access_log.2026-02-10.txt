@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [10/Feb/2026:06:52:32 +0530] "GET /college-course-registration-system-spring HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/Feb/2026:06:52:35 +0530] "GET /college-course-registration-system-spring/ HTTP/1.1" 200 130
+0:0:0:0:0:0:0:1 - - [10/Feb/2026:06:52:39 +0530] "GET /college-course-registration-system-spring/register HTTP/1.1" 200 130
+0:0:0:0:0:0:0:1 - - [10/Feb/2026:06:52:43 +0530] "GET /college-course-registration-system-spring/enroll HTTP/1.1" 200 130

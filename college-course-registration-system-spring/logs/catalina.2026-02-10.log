@@ -1,0 +1,37 @@
+10-Feb-2026 06:52:16.194 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.38
+10-Feb-2026 06:52:16.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 10 2020 08:20:30 UTC
+10-Feb-2026 06:52:16.214 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.38.0
+10-Feb-2026 06:52:16.215 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+10-Feb-2026 06:52:16.215 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+10-Feb-2026 06:52:16.215 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+10-Feb-2026 06:52:16.215 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_261\jre
+10-Feb-2026 06:52:16.215 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_261-b12
+10-Feb-2026 06:52:16.215 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+10-Feb-2026 06:52:16.216 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\HP\Desktop\spring\college-course-registration-system-spring
+10-Feb-2026 06:52:16.216 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\HP\Downloads\apache-tomcat-9.0.38-windows-x64\apache-tomcat-9.0.38
+10-Feb-2026 06:52:16.243 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\HP\Downloads\apache-tomcat-9.0.38-windows-x64\apache-tomcat-9.0.38
+10-Feb-2026 06:52:16.244 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\HP\Desktop\spring\college-course-registration-system-spring
+10-Feb-2026 06:52:16.244 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\HP\Desktop\spring\college-course-registration-system-spring\temp
+10-Feb-2026 06:52:16.244 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\HP\Desktop\spring\college-course-registration-system-spring\conf\logging.properties
+10-Feb-2026 06:52:16.244 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+10-Feb-2026 06:52:16.244 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2025.2\lib\idea_rt.jar=51612
+10-Feb-2026 06:52:16.244 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+10-Feb-2026 06:52:16.287 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.25] using APR version [1.7.0].
+10-Feb-2026 06:52:16.287 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+10-Feb-2026 06:52:16.287 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+10-Feb-2026 06:52:16.339 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+10-Feb-2026 06:52:18.412 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+10-Feb-2026 06:52:18.929 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [3965] milliseconds
+10-Feb-2026 06:52:19.075 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+10-Feb-2026 06:52:19.076 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.38]
+10-Feb-2026 06:52:19.097 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\HP\Desktop\spring\college-course-registration-system-spring\conf\Catalina\localhost\college-course-registration-system-spring.xml]
+10-Feb-2026 06:52:24.406 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+10-Feb-2026 06:52:24.957 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Initializing Servlet 'dispatcher'
+10-Feb-2026 06:52:28.821 INFO [main] org.springframework.web.servlet.FrameworkServlet.initServletBean Completed initialization in 3864 ms
+10-Feb-2026 06:52:28.865 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\HP\Desktop\spring\college-course-registration-system-spring\conf\Catalina\localhost\college-course-registration-system-spring.xml] has finished in [9,765] ms
+10-Feb-2026 06:52:28.879 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+10-Feb-2026 06:52:28.906 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [9976] milliseconds
+10-Feb-2026 06:53:40.381 INFO [Thread-4] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+10-Feb-2026 06:53:43.733 INFO [Thread-4] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+10-Feb-2026 06:53:44.181 INFO [Thread-4] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+10-Feb-2026 06:53:44.268 INFO [Thread-4] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

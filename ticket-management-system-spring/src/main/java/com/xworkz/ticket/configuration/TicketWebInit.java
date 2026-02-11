@@ -1,0 +1,21 @@
+package com.xworkz.ticket.configuration;
+
+import org.springframework.web.WebApplicationInitializer;
+import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
+
+public class TicketWebInit extends AbstractAnnotationConfigDispatcherServletInitializer implements WebApplicationInitializer {
+    @Override
+    protected Class<?>[] getRootConfigClasses() {
+        return new Class[0];
+    }
+
+    @Override
+    protected Class<?>[] getServletConfigClasses() {
+        return new Class[]{TicketConfiguration.class};
+    }
+
+    @Override
+    protected String[] getServletMappings() {
+        return new String[]{"/"};
+    }
+}
